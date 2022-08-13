@@ -8,3 +8,5 @@ Kocaeli University, Department of Computer Programming, 41135 Kartepe-Kocaeli, T
 
 Mailing address: Kocaeli University, Department of Computer Programming, 41140 Kocaeli, Turkey
 E-mail: okafadar@kocaeli.edu.tr
+
+Kafadar Ö., 2019. Estimation of the Depth And Shape of the Source From Derivatives of Residual Gravity Data Using the Parametric Curves Technique: A Case Study From Erzincan-Çayirli Region, Turkey. Erzincan University Journal of Science and Technology 12 (1), 294-305
