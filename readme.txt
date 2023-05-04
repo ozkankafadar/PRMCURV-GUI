@@ -1,12 +1,6 @@
-PRMCURV-GUI (PARAMETRIC CURVES-GRAPHICAL USER INTERFACE)
-
 PRMCURV-GUI: Estimation of the Depth and Shape of the Source from Derivatives of Residual Gravity Data 
 using the Parametric Curves Technique
 
-Ozkan Kafadar
-Kocaeli University, Department of Computer Programming, 41135 Kartepe-Kocaeli, Turkey
-
-Mailing address: Kocaeli University, Department of Computer Programming, 41140 Kocaeli, Turkey
-E-mail: okafadar@kocaeli.edu.tr
+In this study, the parametric curves technique that estimates the shape and depth of a buried structure simultaneously, was applied to derivatives of residual gravity data. This method uses the origin and characteristic points of the profile data to establish a relationship between the shape and depth of the source. The first-order derivative of residual gravity data was used for buried sphere, horizontal cylinder, vertical cylinder and semi-infinite vertical dyke models, whereas second-order derivative of residual gravity data was used for vertical fault model. Besides, a software was developed to apply the method on synthetic and field data by using the .NET Framework 4.5 and C# language. This method was applied to five synthetic models and the shape factors were determined for each models. In addition to synthetic examples, a residual gravity map from Turkey was used to test the validity of the method on real data. Both proposed method and power spectrum method were applied on three profile data obtained from the study area and estimated depths were compared with each other. Finally, a 3D model of the Erzincan-Çayırlı Basin was created using the estimated depths. 
 
 Kafadar Ö., 2019. Estimation of the Depth And Shape of the Source From Derivatives of Residual Gravity Data Using the Parametric Curves Technique: A Case Study From Erzincan-Çayirli Region, Turkey. Erzincan University Journal of Science and Technology 12 (1), 294-305
